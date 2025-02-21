@@ -102,8 +102,3 @@ Below is a screenshot of the encryption process in action, demonstrating error h
 💡 *If you find this project interesting, give it a ⭐ and feel free to contribute!* 😊  
 
 ---
-
-### ✅ **Final Touch**  
-📌 **Upload your screenshot to the GitHub repository under a `screenshots` folder** and update the image link in the README.  
-
-This version makes your project **clear, professional, and visually appealing**, while also ensuring HR or non-technical viewers can appreciate the work. 🚀 Let me know if you need any changes! 🔥
