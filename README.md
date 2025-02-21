@@ -93,7 +93,7 @@ Below is a screenshot of the encryption process in action, demonstrating error h
 🚀 **Steganalysis Tools** – Explore automated detection and extraction methods for steganographic content.  
 
 ## 📎 GitHub Repository  
-🔗 [Secure Data Hiding in Images - GitHub](https://github.com/your-username/steganography-project)  
+🔗 [Secure Data Hiding in Images - GitHub](https://github.com/Akash-Aryan/Steganography.git)  
 
 ---
 
